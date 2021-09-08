@@ -1,0 +1,22 @@
+.first-room {
+    display: grid;
+    gap: 15px;
+}
+
+.second-room {
+    display: grid;
+    gap: 15px;
+}
+
+.pillar {
+    grid-row: 1 / span 2;
+}
+
+.wall-one {
+    grid-column: 2 / 3;
+}
+
+.wall-two {
+    grid-row: 1;
+    grid-column: 5 / 6;
+}
