@@ -1,0 +1,8 @@
+.room {
+    display: grid;
+    grid-template-columns: 15% 35% 35% 15%;
+}
+
+.pillars {
+    display: grid;
+}

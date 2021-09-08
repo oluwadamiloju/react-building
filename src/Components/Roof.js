@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Roof = (props) => {
+const Roof = () => {
     return (
-        <div style={props.style}>
+        <div style={{backgroundColor: "blueviolet", color: "white", clipPath: "polygon(50% 0%, 0 100%, 100% 99%)"}}>
             <h3>ROOF</h3>
         </div>
     )
