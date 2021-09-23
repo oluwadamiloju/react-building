@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Foundation from './Foundation'
 import RoomContainer from './RoomContainer'
 import Roof from './Roof'
